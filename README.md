@@ -1,4 +1,4 @@
-# java_exercicios\
+# java_exercicios
 
 Unicesumar Curitiba\
 autor: Felipe Alves Ivanaga\
